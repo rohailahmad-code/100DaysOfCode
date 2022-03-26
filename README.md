@@ -11,7 +11,7 @@ For Today topics Click: [Here](Days/Day1.md)
 ## Day 2
 
 Hello, 
-Second Day of 100DaysOfCode Challenge.
+Day 2 of 100DaysOfCode Challenge.
 Today I cover some topics which is given below:
 
 For Today topics Click: [Here](Days/Day2.md)
@@ -19,7 +19,7 @@ For Today topics Click: [Here](Days/Day2.md)
 ## Day 3
 
 Hello, 
-Second Day of 100DaysOfCode Challenge.
+Day 3 of 100DaysOfCode Challenge.
 Today I cover some topics which is given below:
 
 For Today topics Click: [Here](Days/Day3.md)
@@ -27,7 +27,7 @@ For Today topics Click: [Here](Days/Day3.md)
 ## Day 4
 
 Hello, 
-Second Day of 100DaysOfCode Challenge.
+Day 4 of 100DaysOfCode Challenge.
 Today I cover some topics which is given below:
 
 For Today topics Click: [Here](Days/Day4.md)
@@ -35,7 +35,7 @@ For Today topics Click: [Here](Days/Day4.md)
 ## Day 5
 
 Hello, 
-Second Day of 100DaysOfCode Challenge.
+Day 5 of 100DaysOfCode Challenge.
 Today I cover some topics which is given below:
 
 For Today topics Click: [Here](Days/Day5.md)
