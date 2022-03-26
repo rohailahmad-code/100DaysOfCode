@@ -15,3 +15,27 @@ Second Day of 100DaysOfCode Challenge.
 Today I cover some topics which is given below:
 
 For Today topics Click: [Here](Day2/Day2.md)
+
+## Day 3
+
+Hello, 
+Second Day of 100DaysOfCode Challenge.
+Today I cover some topics which is given below:
+
+For Today topics Click: [Here](Day3/Day3.md)
+
+## Day 4
+
+Hello, 
+Second Day of 100DaysOfCode Challenge.
+Today I cover some topics which is given below:
+
+For Today topics Click: [Here](Day4/Day4.md)
+
+## Day 5
+
+Hello, 
+Second Day of 100DaysOfCode Challenge.
+Today I cover some topics which is given below:
+
+For Today topics Click: [Here](Day5/Day5.md)
