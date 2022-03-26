@@ -1,0 +1,14 @@
+.UserOutput{
+    width: 40%;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid red;
+    border-radius: 20px;
+    background-color: #ccc;
+    text-align: center;
+    transition: all .3s ease-in-out;
+    
+}
+.UserOutput:hover{
+    background-color: yellow;
+}
