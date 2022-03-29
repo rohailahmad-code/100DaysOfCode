@@ -63,3 +63,11 @@ Day 8 of 100DaysOfCode Challenge.
 Today I cover some topics which is given below:
 
 For Today topics Click: [Here](Days/Day8.md)
+
+## Day 9
+
+Hello, 
+Day 8 of 100DaysOfCode Challenge.
+Today I cover some topics which is given below:
+
+For Today topics Click: [Here](Days/Day9.md)
