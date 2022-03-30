@@ -66,7 +66,7 @@ This command will start you project server.
 
 <hr>
 
-React coponents are independent and reusable bits of code. They serve the same purpose as JavaScript Function, but work in isolation and return HTML.
+React components are independent and reusable bits of code. They serve the same purpose as JavaScript Function, but work in isolation and return HTML.
 
 Components come in two types:
 
