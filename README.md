@@ -71,3 +71,11 @@ Day 9 of 100DaysOfCode Challenge.
 Today I cover some topics which is given below:
 
 For Today topics Click: [Here](Days/Day9.md)
+
+## Day 10
+
+Hello, 
+Day 10 of 100DaysOfCode Challenge.
+Today I cover some topics which is given below:
+
+For Today topics Click: [Here](Days/Day10.md)
