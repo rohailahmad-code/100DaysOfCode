@@ -9,7 +9,7 @@
 - JSX Restrictions.
 - Functional Component
 
-# Topics Explaination
+# Topics Explanation
 
 <hr>
 

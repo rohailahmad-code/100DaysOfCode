@@ -9,7 +9,7 @@
 - Handling Events with Methods
 - setState
 
-# Topics Explaination
+# Topics Explanation
 
 <hr>
 
